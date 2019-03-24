@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>export</key>
+	<array>
+		<dict>
+			<key>date</key>
+			<string>2019年3月23日 土曜日 18時10分22秒 日本標準時</string>
+			<key>fullDate</key>
+			<date>2019-03-23T09:10:22Z</date>
+			<key>resultStr</key>
+			<array>
+				<string>/Users/masui/Desktop/helpfeel.mp4</string>
+			</array>
+			<key>sourceFP</key>
+			<string>fjTCT3xMRcKaJzL+3Yi8vw - 2019-03-23 09:03:05 +0000</string>
+		</dict>
+		<dict>
+			<key>date</key>
+			<string>2019年3月23日 土曜日 18時13分09秒 日本標準時</string>
+			<key>fullDate</key>
+			<date>2019-03-23T09:13:09Z</date>
+			<key>resultStr</key>
+			<array>
+				<string>/Users/masui/Desktop/helpfeel.mp4</string>
+			</array>
+			<key>sourceFP</key>
+			<string>fjTCT3xMRcKaJzL+3Yi8vw - 2019-03-23 09:12:18 +0000</string>
+		</dict>
+		<dict>
+			<key>date</key>
+			<string>2019年3月23日 土曜日 20時17分09秒 日本標準時</string>
+			<key>fullDate</key>
+			<date>2019-03-23T11:17:09Z</date>
+			<key>resultStr</key>
+			<array>
+				<string>/Users/masui/Desktop/helpfeel.mp4</string>
+			</array>
+			<key>sourceFP</key>
+			<string>fjTCT3xMRcKaJzL+3Yi8vw - 2019-03-23 11:13:36 +0000</string>
+		</dict>
+		<dict>
+			<key>date</key>
+			<string>2019年3月23日 土曜日 20時24分11秒 日本標準時</string>
+			<key>fullDate</key>
+			<date>2019-03-23T11:24:11Z</date>
+			<key>resultStr</key>
+			<array>
+				<string>/Users/masui/Desktop/helpfeel.mp4</string>
+			</array>
+			<key>sourceFP</key>
+			<string>fjTCT3xMRcKaJzL+3Yi8vw - 2019-03-23 11:22:26 +0000</string>
+		</dict>
+		<dict>
+			<key>date</key>
+			<string>2019年3月23日 土曜日 22時26分00秒 日本標準時</string>
+			<key>fullDate</key>
+			<date>2019-03-23T13:26:00Z</date>
+			<key>resultStr</key>
+			<array>
+				<string>/Users/masui/Desktop/helpfeel.mp4</string>
+			</array>
+			<key>sourceFP</key>
+			<string>fjTCT3xMRcKaJzL+3Yi8vw - 2019-03-23 13:24:40 +0000</string>
+		</dict>
+		<dict>
+			<key>date</key>
+			<string>2019年3月23日 土曜日 22時51分55秒 日本標準時</string>
+			<key>fullDate</key>
+			<date>2019-03-23T13:51:55Z</date>
+			<key>resultStr</key>
+			<array>
+				<string>/Users/masui/Desktop/helpfeel.mp4</string>
+			</array>
+			<key>sourceFP</key>
+			<string>fjTCT3xMRcKaJzL+3Yi8vw - 2019-03-23 13:49:30 +0000</string>
+		</dict>
+	</array>
+	<key>theater</key>
+	<array>
+		<dict>
+			<key>date</key>
+			<string>2019年3月23日 土曜日 18時08分31秒 日本標準時</string>
+			<key>fullDate</key>
+			<date>2019-03-23T09:08:31Z</date>
+			<key>sourceFP</key>
+			<string>fjTCT3xMRcKaJzL+3Yi8vw - 2019-03-23 09:03:05 +0000</string>
+		</dict>
+		<dict>
+			<key>date</key>
+			<string>2019年3月24日 日曜日 4時26分08秒 日本標準時</string>
+			<key>fullDate</key>
+			<date>2019-03-23T19:26:08Z</date>
+			<key>sourceFP</key>
+			<string>fjTCT3xMRcKaJzL+3Yi8vw - 2019-03-23 14:25:07 +0000</string>
+		</dict>
+	</array>
+</dict>
+</plist>

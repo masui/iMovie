@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FFSegmentStoreEncodedHeight</key>
+	<integer>227</integer>
+	<key>FFSegmentStoreEncodedWidth</key>
+	<integer>321</integer>
+	<key>FFSegmentStoreFieldOrder</key>
+	<integer>-1</integer>
+	<key>FFSegmentStoreFileFrameCount</key>
+	<integer>1024</integer>
+	<key>FFSegmentStoreFirstSample</key>
+	<integer>0</integer>
+	<key>FFSegmentStorePixelTransformArray</key>
+	<array>
+		<array>
+			<real>0.25</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>160.5</real>
+			<real>0.0</real>
+			<real>-0.25</real>
+			<real>0.0</real>
+			<real>113.5</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1</real>
+		</array>
+	</array>
+	<key>FFSegmentStoreRenderProps</key>
+	<string>FFRenderPropsThumbnail</string>
+	<key>FFSegmentStoreSegmentStoreMD5</key>
+	<data>
+	MtIlUCl7+G+q9/KntCmCSQ==
+	</data>
+	<key>FFSegmentStoreStoredFrameIndexes</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGHyBYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
+	AAGGoKUHCA8TGlUkbnVsbNMJCgsMDQ5cTlNSYW5nZUNvdW50ViRjbGFzc1tOU1Jhbmdl
+	RGF0YRAPgASAAtIQChESV05TLmRhdGFPECsAAUwCkgEB5AEC6AEBowIC/QICggMBtgMD
+	lQQBlwQBnQQBlAUCoAUBpQUBgAPSFBUWF1okY2xhc3NuYW1lWCRjbGFzc2VzXU5TTXV0
+	YWJsZURhdGGjFhgZVk5TRGF0YVhOU09iamVjdNIUFRscXxARTlNNdXRhYmxlSW5kZXhT
+	ZXSjHR4ZXxARTlNNdXRhYmxlSW5kZXhTZXRaTlNJbmRleFNldF8QD05TS2V5ZWRBcmNo
+	aXZlctEhIlRyb290gAEACAARABoAIwAtADIANwA9AEMASgBXAF4AagBsAG4AcAB1AH0A
+	qwCtALIAvQDGANQA2ADfAOgA7QEBAQUBGQEkATYBOQE+AAAAAAAAAgEAAAAAAAAAIwAA
+	AAAAAAAAAAAAAAAAAUA=
+	</data>
+</dict>
+</plist>
